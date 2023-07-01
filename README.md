@@ -1,16 +1,16 @@
 # Chat Application Api with Websocket
 
-## HOW TO USE
+## How to use
 
 to use this apps, use Websocket King Client (extension chrome)
 
-## ENDPOINT
+## Endpoint
 
 ```shell
 ws://localhost:8000/ws
 ```
 
-## PAYLOAD
+## Payload
 
 ```shell
 {
